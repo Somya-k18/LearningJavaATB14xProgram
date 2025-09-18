@@ -1,4 +1,4 @@
 package ex_02_JavaBasics;
 
-public class test_01 {
+public class Lab0071 {
 }
