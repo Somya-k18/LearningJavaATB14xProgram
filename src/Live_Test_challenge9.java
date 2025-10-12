@@ -37,7 +37,7 @@ public class Live_Test_challenge9 {
                     System.out.println("Sunday");
                     break;
                 default:
-                    System.out.println("Enter number from 1 to 7 only");
+                    System.out.println("Invalid Day Number");
 
             }
         }else{
